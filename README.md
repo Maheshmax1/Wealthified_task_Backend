@@ -1,8 +1,9 @@
 "# Mutual Fund Transaction Dashboard Backend
 
 ## Project Links
-- Frontend = [../frontend](../frontend)
-- Backend = [Backend](.)
+- Frontend = [https://github.com/Maheshmax1/Wealthified_task_frontend.git]
+- Backend = [https://github.com/Maheshmax1/Wealthified_task_Backend.git]
+- Document Link = [https://docs.google.com/document/d/1BDeaDOgSq1IVtC4PHP2CphBw6ePu1Mt2sXUA7OVSCFE/edit?usp=sharing]
 
 A FastAPI backend for a mutual fund transaction dashboard that summarizes investor purchases, fund purchases, transaction history, and fund summaries.
 
